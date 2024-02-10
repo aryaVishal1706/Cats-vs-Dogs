@@ -1,1 +1,3 @@
 # Cats-vs-Dogs
+
+Cat vs Dog Classifier  This repository contains a simple yet effective machine learning model for classifying images as either cats or dogs. The code is implemented in Python using popular deep learning libraries such as TensorFlow and Keras. The model is trained on a diverse dataset of cat and dog images, achieving high accuracy in distinguishing between the two. The repository also includes pre-trained weights for quick inference and a user-friendly Jupyter notebook for easy experimentation. Whether you're a beginner looking to understand image classification or a seasoned practitioner, this project provides a solid foundation for building and deploying your own animal classifiers.
